@@ -9,6 +9,7 @@ public class App1 {
 		// TODO Auto-generated method stub
 		System.out.println("hello maven");
 		System.out.println("hello test1");
+		System.out.println("build");
 	}
 
 }
